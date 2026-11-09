@@ -1,0 +1,29 @@
+# Python local environments and cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated outputs (retain the archived published results under results/)
+results/reproduced/
+video_export/
+reports/
+*.log
+
+# Local media and compressed exports not needed for the evaluation repository
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,28 @@
+{
+  "hash_algorithm": "SHA-256",
+  "files": {
+    "README.md": "f3d9b2fcccdbaabdadfab23d1c1d130b2e0278421b749597a89fd72f6a47a59f",
+    "PHOTO_RECOVERY.md": "5c2da5a6c5f7d07bfcdbf53d3cf7254384729e27506fee7ffbb807c14a8ce8fd",
+    "PHOTOGRAPH_CREDITS.md": "718018fde9757451017993e316ca41c15627703b8b5b27a0a8800eb4b422206d",
+    "photos/manifest.json": "b62301556262bfba18f4e21b1d642f7b8391e462b89c9577d30329fbf8f08102",
+    "sources/source_manifest.json": "75c99ef849045d14c655ede2eace824853dbb27ea69b6d2417b12b3ac6314bfd",
+    "reference/answers.json": "8f99ede5a89befa846791566fb6a5a271cb4433cfe1a3d1ab6b9bd22f24a95ed",
+    "grade_responses.py": "e7eedb9f5bfe9e83a6c01d9a33b8479848ac12f655f6af14f8728a4c9eab11f0",
+    "build_worksheet.py": "8832bd48f0461e55acb36298979866881e42e37e2dcaa3625fef4e850c70f306",
+    "fetch_photos.py": "4552c879cb052c1b52f0501ae199a56a8ec1cce88fcc1e605f627a496d96e22b",
+    "import_photos.py": "8ac522f461055533175754000872a571216baf1bee7dfb672eecb4de9dfe0011",
+    "package_offline.py": "8470abb4d24aaee2e5ccda023c1fa57409b958fd51512000b19cd6694e4fb1b2",
+    "verify_package.py": "c77a7b814a74b6f2fa317bc319f13607087abcc458f5435e5b9df9de9ac54a24",
+    "START_WINDOWS.cmd": "29ef8e446e495dd4749b14e1f34305fc0cf5d313d87b512f369eae51853771e6",
+    "IMPORT_PHOTOS_WINDOWS.cmd": "624bdab67d939919e9e2f54fc4a8da1351c3e397545bbf17448b9638ebefbe13",
+    "BUILD_OFFLINE_WINDOWS.cmd": "fb2608795e3ce7b1b9607b4a952caaa37afc55b3f491c0f7206b343fce8f6945",
+    "tasks/ION-REAL-01.json": "407f3b0a131ce36ec52ded1b667d1442a43cd7a341174ffc9d83271c0f1b5112",
+    "tasks/ION-REAL-02.json": "3a16442e0383a30b8d3e0583ff38450980a7d54d9cbdaf8035c0be993cc12f4d",
+    "tasks/ION-REAL-03.json": "8d375d2b0c7279471b79453924ba2b8554e981a7036d841a13393e804c318231",
+    "tasks/ION-REAL-04.json": "a5c89d7c8e2fbebc21a51f1697ff4a9033139e653cbd2d5152a5c948a4cd40cf",
+    "tasks/ION-REAL-05.json": "9b59c67922e7822da6a6b5e233af82215f2ac5c1d4c808ad16ff6672ba1aa72e",
+    "tasks/ION-REAL-06.json": "9f2f3f413cccd7abd5b3a65c707bb5a5b9f0e56c54679f0a7389a949901219fd",
+    "tasks/ION-REAL-07.json": "1a131968be6ef709429f3a10e8c24f0db84ceb07026d01ed1b4d1722dac45754",
+    "tasks/ION-REAL-08.json": "98193dd35eb805cba23a3def935f2d2dafe32fffd4fc235b893ae3be08b7be3f"
+  }
+}
